@@ -14,7 +14,7 @@ A simple application that uses to take notes from college classes. It uses front
 * [ASP.NET Core MVC](https://asp.net/)
 * [Microsoft SQL Server database provider for Entity Framework Core](https://docs.microsoft.com/pl-pl/ef/core/)
 * [System.Data.SqlClient](https://github.com/dotnet/corefx)
-* [Microsoft Azure] (https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiApL2QBhC8ARIsAGMm-KGKX7NN7jOqjXs-Zt5yb5bg8Y_tSo_yxQ7ZrqQOhTk9HbliGqY_0_8aAu8dEALw_wcB:G:s&OCID=AID2200242_SEM_Cj0KCQiApL2QBhC8ARIsAGMm-KGKX7NN7jOqjXs-Zt5yb5bg8Y_tSo_yxQ7ZrqQOhTk9HbliGqY_0_8aAu8dEALw_wcB:G:s&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KGKX7NN7jOqjXs-Zt5yb5bg8Y_tSo_yxQ7ZrqQOhTk9HbliGqY_0_8aAu8dEALw_wcB)
+* [Microsoft Azure](https://azure.microsoft.com)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
