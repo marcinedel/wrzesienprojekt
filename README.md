@@ -15,6 +15,8 @@ A simple application that uses to take notes from college classes. It uses front
 * [Microsoft SQL Server database provider for Entity Framework Core](https://docs.microsoft.com/pl-pl/ef/core/)
 * [System.Data.SqlClient](https://github.com/dotnet/corefx)
 * [Microsoft Azure](https://azure.microsoft.com)
+* [JS](https://www.javascript.com/)
+* [VueJs](https://vuejs.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
